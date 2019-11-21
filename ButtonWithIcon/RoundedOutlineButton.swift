@@ -41,8 +41,5 @@ extension RoundedOutlineButton {
         layer.cornerCurve = .continuous
         
         imageView?.contentMode = .scaleAspectFit
-        
-        titleEdgeInsets = UIEdgeInsets(top: 0, left: 12, bottom: 0, right: 0)
-        imageEdgeInsets = UIEdgeInsets(top: 12, left: 12, bottom: 12, right: 12)
     }
 }

@@ -21,6 +21,7 @@
                                     <constraint firstAttribute="height" constant="44" id="wP6-WZ-G9b"/>
                                 </constraints>
                                 <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="12" maxX="0.0" maxY="12"/>
                                 <state key="normal" title="Button" image="ki-linkout"/>
                             </button>
                         </subviews>
